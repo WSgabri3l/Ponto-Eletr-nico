@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#container{
+    border: solid 3px black;
+    width: 1000px;
+    height: 700px;
+    padding: 10px;
+    gap: 10px;
+    
+}
+
+#dataSpace{
+    border: solid 3px black;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    margin-left: 230px;
+}
+
+h1{
+    text-align: center;
+}
+
+#message{
+    
+    height: 300px;
+}
